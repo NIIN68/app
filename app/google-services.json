@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "167334979264",
+    "project_id": "hi-bro-6e150",
+    "storage_bucket": "hi-bro-6e150.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:167334979264:android:a61a16320d044979d9af25",
+        "android_client_info": {
+          "package_name": "com.example.myapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "167334979264-tljcp4cbcsneumt0h70tcbgg9n5vse5u.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyArDOpmyXS09dD0eJCgvF-atJb1BoQ7rvM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "167334979264-tljcp4cbcsneumt0h70tcbgg9n5vse5u.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
